@@ -40,7 +40,7 @@ The dataset used for analysis contains 1000 rows and 17 columns.
 
 **The chart below shows the comparison of total sales across the three branches during the three-month period.**
 
-![Comparison of branches by total sales](images/Comparison of branches by total sales.png)
+![Comparison of branches by total sales](images/Comparison%20of%20branches%20by%20total%20sales.png)
 
 2. ***Average sales***
 
@@ -51,7 +51,7 @@ The dataset used for analysis contains 1000 rows and 17 columns.
 
 **The chart below shows the comparison of average sales across the three branches during the three-month period.**
 
-![Comparison of branches by average sales](images/Comparison of branches by average sales.png)
+![Comparison of branches by average sales](images/Comparison%20of%20branches%20by%20Average%20sales.png)
 
 3. ***Quantity of goods***
 
